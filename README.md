@@ -41,6 +41,12 @@ White objects reflecting three colored lights
 ![42.miniRT](https://github.com/Noulens/miniRT/blob/main/images/multiple.png)
 
 
-https://github.com/Noulens
+## Authors
+
+Minishell was created by [jha0517](https://github.com/jha0517) and [Noulens](https://github.com/Noulens). If you have any questions or feedback, please feel free to contact me.
+
+## Acknowledgements
+
+We would like to thank 42 school for providing us with the opportunity to work on this project and learn new skills.
 
 
