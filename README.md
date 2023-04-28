@@ -43,7 +43,7 @@ White objects reflecting three colored lights
 
 ## Authors
 
-Minishell was created by [jha0517](https://github.com/jha0517) and [Noulens](https://github.com/Noulens). If you have any questions or feedback, please feel free to contact me.
+MiniRT was created by [jha0517](https://github.com/jha0517) and [Noulens](https://github.com/Noulens). If you have any questions or feedback, please feel free to contact me.
 
 ## Acknowledgements
 
